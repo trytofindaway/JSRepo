@@ -1,0 +1,15 @@
+@import url("https://fonts.googleapis.com/css2?family=M+PLUS+1p&display=swap;");
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'M PLUS 1p',Arial, Helvetica, sans-serif;
+    margin: auto;
+    min-height: 100vh;
+}
